@@ -35,7 +35,7 @@ const handleRequest = async (
         domain: 'https://gdindex.phantomdroidz.workers.dev',
         protocol: 'https',
       },
-    ]
+    ],
     cors: {
       origin: '*',
       credentials: true,
