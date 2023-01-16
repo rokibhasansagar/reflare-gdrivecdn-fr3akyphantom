@@ -1,5 +1,5 @@
-name = "template"
-account_id = ""
+name = "gdrivecdn"
+account_id = "2cb2a00a26549a79ecf54e52b51619d8"
 usage_model = "bundled"
 workers_dev = true
 compatibility_date = "2022-10-03"
