@@ -15,10 +15,10 @@ const handleRequest = async (
         domain: 'https://gdindex.phantomdroida.workers.dev',
         protocol: 'https',
       },
-      /*{
+      {
         domain: 'https://gdindex.phantomdroidb.workers.dev',
         protocol: 'https',
-      },*/
+      },
       {
         domain: 'https://gdindex.phantomdroidc.workers.dev',
         protocol: 'https',
